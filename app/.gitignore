@@ -1,0 +1,2 @@
+#Ignore js transpiled from typescript
+*.js*
